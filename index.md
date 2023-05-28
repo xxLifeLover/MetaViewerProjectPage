@@ -1,3 +1,7 @@
+---
+layout: default
+title: MetaViewer CVPR23
+---
 
 ![CVPR23-Poster_01](https://github.com/xxLifeLover/MetaViewerProjectPage/assets/85230454/fed8c599-9b40-4084-8f1a-96ed0b993f0d)
 
