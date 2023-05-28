@@ -1,7 +1,7 @@
 
 
-#### Paper, Code
-#### TIME Lab
+#### [Paper](https://arxiv.org/abs/2303.06329), [Code](https://github.com/xxLifeLover/MetaViewer)
+#### [TIME Lab](http://time.sdu.edu.cn/index.htm)
 ### bibtex:
 '''
 @InProceedings{Wang_2023_CVPR,
