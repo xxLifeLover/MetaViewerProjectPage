@@ -1,6 +1,7 @@
 
 
-![CVPR23-Poster_01](https://github.com/xxLifeLover/MetaViewerProjectPage/assets/85230454/fed8c599-9b40-4084-8f1a-96ed0b993f0d)
+![CVPR23-Poster_02](https://github.com/xxLifeLover/MetaViewerProjectPage/assets/85230454/82730e63-3508-43ac-87e3-c36fce97626d)
+
 
 #### [Paper](https://arxiv.org/abs/2303.06329), [Code](https://github.com/xxLifeLover/MetaViewer), [Poster](https://github.com/xxLifeLover/MetaViewer), [Video](https://github.com/xxLifeLover/MetaViewer), [TIME Lab](http://time.sdu.edu.cn/index.htm)
 ### Bibtex:
